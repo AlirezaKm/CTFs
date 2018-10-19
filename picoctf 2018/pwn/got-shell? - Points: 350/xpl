@@ -1,0 +1,3 @@
+
+win addr = 0x0804854b
+exit got = 0x0804a014
